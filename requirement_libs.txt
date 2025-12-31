@@ -1,0 +1,14 @@
+# Required libraries for Mineral Processing Project
+# Install using: pip install -r requirement_libs.txt
+
+# Data manipulation and analysis
+pandas>=2.0.0
+
+# Excel file support (required by pandas for .xlsx files)
+openpyxl>=3.1.0
+
+# Web scraping
+selenium>=4.0.0
+
+# Automatic WebDriver management
+webdriver-manager>=4.0.0

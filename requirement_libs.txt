@@ -12,3 +12,9 @@ selenium>=4.0.0
 
 # Automatic WebDriver management
 webdriver-manager>=4.0.0
+
+
+plotly
+
+statsmodels
+sklearn

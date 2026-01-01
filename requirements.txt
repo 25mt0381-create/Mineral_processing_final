@@ -17,4 +17,4 @@ webdriver-manager>=4.0.0
 plotly
 
 statsmodels
-sklearn
+scikit-learn
